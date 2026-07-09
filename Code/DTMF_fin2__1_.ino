@@ -187,7 +187,7 @@ void left() {
   digitalWrite(in1, HIGH);
   digitalWrite(in4, HIGH);
   lcd.clear();
-  lcd.print("Left");
+  lcd.print("left");
 }
 
 void right() {
